@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UQWEf/kd2+g=",
+  "dgSpecHash": "Rtm+rQeOsEA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniil\\Desktop\\danito\\Kolbason4\\WpfApp4.csproj",
+  "projectFilePath": "C:\\Users\\Daniil\\Desktop\\Task4-OOP\\Task4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daniil\\.nuget\\packages\\materialdesigncolors\\2.0.9\\materialdesigncolors.2.0.9.nupkg.sha512",
     "C:\\Users\\Daniil\\.nuget\\packages\\materialdesignthemes\\4.6.1\\materialdesignthemes.4.6.1.nupkg.sha512",

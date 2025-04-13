@@ -2,9 +2,9 @@
 using System.Configuration;
 using System.Data;
 using System.Windows;
-using WpfApp4.Model;
+using Task4.Model;
 
-namespace WpfApp4
+namespace Task4
 {
     /// <summary>
     /// Interaction logic for App.xaml
